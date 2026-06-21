@@ -2,7 +2,7 @@
 ### Intercollegiate Web Development Hackathon
 **Organized by IEEE Student Branch | Saintgits College of Engineering**
 
----
+----
 
 ## About
 
